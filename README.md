@@ -50,8 +50,35 @@
 
 ![image](https://github.com/diantyapitaloka/Gemini-Python/assets/147487436/61cb9d01-561c-4cd5-b973-bc94c9de40af)
 
+![image](https://github.com/diantyapitaloka/Gemini-Python/assets/147487436/5fdc3b25-8eb3-475a-a303-5f083002bc9a)
 
+![image](https://github.com/diantyapitaloka/Gemini-Python/assets/147487436/aa9aae7c-fb5c-4728-891a-f22e00805e2f)
 
+![image](https://github.com/diantyapitaloka/Gemini-Python/assets/147487436/d2aedfa1-b7d7-4e55-8d5c-0c813fb56729)
+
+![image](https://github.com/diantyapitaloka/Gemini-Python/assets/147487436/d78612ed-978a-412c-bd9e-afd77599e72e)
+
+![image](https://github.com/diantyapitaloka/Gemini-Python/assets/147487436/ecf91716-522f-495a-97a4-26783205aebd)
+
+![image](https://github.com/diantyapitaloka/Gemini-Python/assets/147487436/a1ced0cb-76f3-4806-abf2-0f8c8c79abe2)
+
+![image](https://github.com/diantyapitaloka/Gemini-Python/assets/147487436/5c2ea6b7-a64f-4df0-a533-30e795933a64)
+
+![image](https://github.com/diantyapitaloka/Gemini-Python/assets/147487436/5a5306cf-095f-4135-8040-dadb5ca69119)
+
+![image](https://github.com/diantyapitaloka/Gemini-Python/assets/147487436/793786fb-e010-4a91-b6de-2cf4dc2baf82)
+
+![image](https://github.com/diantyapitaloka/Gemini-Python/assets/147487436/55daf5a9-0e31-4dcb-a171-b45da627b6ed)
+
+![image](https://github.com/diantyapitaloka/Gemini-Python/assets/147487436/969a7c9b-f623-4d94-96d7-09063651f4b4)
+
+![image](https://github.com/diantyapitaloka/Gemini-Python/assets/147487436/7f43c5fd-55d4-4387-a25d-b0abbeb72ab7)
+
+![image](https://github.com/diantyapitaloka/Gemini-Python/assets/147487436/0316f849-5fef-4e52-9c61-947020ad9d11)
+
+![image](https://github.com/diantyapitaloka/Gemini-Python/assets/147487436/59c7d860-4ecc-4ac9-8e4c-e0e9183878a1)
+
+![image](https://github.com/diantyapitaloka/Gemini-Python/assets/147487436/8394f80d-e021-4640-9255-4a26e4d3addd)
 
 
 
