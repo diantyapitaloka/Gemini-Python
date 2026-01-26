@@ -4,6 +4,7 @@
 - Contextual Memory Management Maintain sophisticated conversation history by structuring chat sessions with built-in memory buffers. This enables the model to recall previous interactions accurately, providing a more cohesive and "human-like" dialogue.
 - Multimodal Input Support Expand your application’s horizons by processing images, videos, and text simultaneously within a single prompt. Leveraging Python's data handling libraries makes it simple to encode and send complex media to the Gemini API.
 - Automated Error Handling Implement robust retry logic and exception management to maintain high uptime for your AI services. This ensures that network fluctuations or API rate limits are handled gracefully without crashing your main applications.
+- Native Code Execution & Sandboxing Enable the model to generate and execute Python code in a secure, isolated environment. This allows Gemini to perform complex mathematical calculations, data analysis, and even generate visualizations (like Matplotlib charts) on the fly, returning the results directly to your application.
 
 ![image](https://github.com/diantyapitaloka/Gemini-Python/assets/147487436/2970dd78-4c48-4352-b400-6b69e34e636f)
 
