@@ -1,6 +1,7 @@
 ## 🌸💮🦋 Gemini-Python 🦋💮🌸
 - Seamless Stream Processing Handle real-time data flows efficiently by utilizing Gemini’s streaming response capabilities. This allows your application to display information to users instantly as it is generated rather than waiting for the full payload.
 - Custom Safety Settings Tailor the content moderation filters to suit the specific needs and boundaries of your project. By adjusting these thresholds in Python, you ensure a reliable and brand-safe experience for all end-users.
+- Contextual Memory Management Maintain sophisticated conversation history by structuring chat sessions with built-in memory buffers. This enables the model to recall previous interactions accurately, providing a more cohesive and "human-like" dialogue.
 
 ![image](https://github.com/diantyapitaloka/Gemini-Python/assets/147487436/2970dd78-4c48-4352-b400-6b69e34e636f)
 
