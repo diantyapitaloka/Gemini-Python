@@ -6,6 +6,7 @@
 - Automated Error Handling Implement robust retry logic and exception management to maintain high uptime for your AI services. This ensures that network fluctuations or API rate limits are handled gracefully without crashing your main applications.
 - Native Code Execution & Sandboxing Enable the model to generate and execute Python code in a secure, isolated environment. This allows Gemini to perform complex mathematical calculations, data analysis, and even generate visualizations (like Matplotlib charts) on the fly, returning the results directly to your application.
 - Structured Output with Response Schemas Enforce strict JSON formatting by defining a Python class (using Pydantic or TypedDict) as a response_schema. This eliminates the need for manual parsing or "retry-on-fail" logic for data extraction, ensuring the model's output always maps perfectly to your application’s data models.
+- Dynamic "Thinking" Levels Optimize for either speed or depth by adjusting the model's reasoning intensity. In Python, you can set the thinking level to minimal for low-latency tasks like chat, or high for complex problem-solving where the model needs to "deliberate" before providing a final answer.
 
 ![image](https://github.com/diantyapitaloka/Gemini-Python/assets/147487436/2970dd78-4c48-4352-b400-6b69e34e636f)
 
