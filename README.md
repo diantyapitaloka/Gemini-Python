@@ -1,5 +1,6 @@
 ## 🌸💮🦋 Gemini-Python 🦋💮🌸
 - Seamless Stream Processing Handle real-time data flows efficiently by utilizing Gemini’s streaming response capabilities. This allows your application to display information to users instantly as it is generated rather than waiting for the full payload.
+- Structured Output Parsing Utilize Python type hints and Pydantic models to force the API to return data in strict JSON formats. This eliminates the headache of "hallucinated" syntax and makes it easy to map AI responses directly into your application's data objects.
 - Custom Safety Settings Tailor the content moderation filters to suit the specific needs and boundaries of your project. By adjusting these thresholds in Python, you ensure a reliable and brand-safe experience for all end-users.
 - Contextual Memory Management Maintain sophisticated conversation history by structuring chat sessions with built-in memory buffers. This enables the model to recall previous interactions accurately, providing a more cohesive and "human-like" dialogue.
 - Multimodal Input Support Expand your application’s horizons by processing images, videos, and text simultaneously within a single prompt. Leveraging Python's data handling libraries makes it simple to encode and send complex media to the Gemini API.
