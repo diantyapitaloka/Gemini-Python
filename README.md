@@ -1,5 +1,5 @@
 ## 🌸💮🦋 Gemini-Python 🦋💮🌸
-- Seamless Stream Processing Handle real-time data flows efficiently by utilizing Gemini’s streaming response capabilities. This allows your application to display information to users instantly as it is generated rather than waiting for the full payload.
+- Seamless Stream Processing Handle real-time data flows efficiently by utilizing Gemini’s streaming response capabilities. This allows your application to display information to users instantly as it is generated rather than waiting for the full payloads.
 - Structured Output Parsing Utilize Python type hints and Pydantic models to force the API to return data in strict JSON formats. This eliminates the headache of "hallucinated" syntax and makes it easy to map AI responses directly into your application's data objects.
 - Custom Safety Settings Tailor the content moderation filters to suit the specific needs and boundaries of your project. By adjusting these thresholds in Python, you ensure a reliable and brand-safe experience for all end-users.
 - Model Versioning and Routing Easily toggle between different model variants, such as Gemini 1.5 Flash for speed or Gemini 1.5 Pro for complex reasoning. This flexibility allows you to route tasks to the most cost-effective model based on the specific requirements of the user's query.
