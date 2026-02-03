@@ -61,6 +61,7 @@
 - High-Volume Batch Processing Handle massive datasets efficiently using the Batch API. By uploading a .jsonl file through the Python SDK, you can process thousands of prompts asynchronously at a significant cost discount (up to 50–90%), making it ideal for non-time-sensitive tasks like document indexing or sentiment analysis.
 - Dynamic Function Calling Empower your agent to interact with external tools and APIs by defining functions directly in your Python code. Gemini can intelligently decide which function to call and parse the necessary arguments, effectively bridging the gap between LLM reasoning and real-world execution.
 - Advanced System Instructions Define a permanent "persona" or set of behavioral rules using system instructions to ground the model’s output style. This ensures consistent formatting and tone across all user sessions without needing to repeat instructions in every prompt.
+- Spatial Reasoning & Object Detection Utilize Gemini’s ability to return 2D bounding boxes and point coordinates. You can ask the model to "find all the safety hazards in this image," and it will return precise pixel coordinates for each item, allowing your Python app to draw overlays or crop specific regions of interest.
 
 ![image](https://github.com/diantyapitaloka/Gemini-Python/assets/147487436/2970dd78-4c48-4352-b400-6b69e34e636f)
 
